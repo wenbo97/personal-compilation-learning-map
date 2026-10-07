@@ -1,0 +1,4 @@
+interface:
+  display_name: "[Code-Learn-Map] - Align Learning Guidance"
+  short_description: "Turn teaching feedback into personalized learning rules"
+  default_prompt: "Use $align-learning-guidance to update applicable .learn-contract rules from my feedback on teaching style and practice approaches."

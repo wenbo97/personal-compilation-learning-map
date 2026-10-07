@@ -1,0 +1,4 @@
+interface:
+  display_name: "[Code-Learn-Map] - Review Learning Progress"
+  short_description: "Review evidence-based progress against the language blueprint"
+  default_prompt: "Use $review-learning-progress to retrieve current learning progress against the PDF blueprint and identify one evidence-based next operation."
