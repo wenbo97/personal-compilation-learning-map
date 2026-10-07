@@ -1,2 +1,5 @@
 # Local CodeGraph index and runtime state.
 /.codegraph/
+
+# Local Ruff cache.
+/.ruff_cache/
